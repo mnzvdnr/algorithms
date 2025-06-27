@@ -1,0 +1,14 @@
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\bin\Debug\netcoreapp3.1\CHerviRezinka.exe
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\bin\Debug\netcoreapp3.1\CHerviRezinka.deps.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\bin\Debug\netcoreapp3.1\CHerviRezinka.runtimeconfig.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\bin\Debug\netcoreapp3.1\CHerviRezinka.runtimeconfig.dev.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\bin\Debug\netcoreapp3.1\CHerviRezinka.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\bin\Debug\netcoreapp3.1\CHerviRezinka.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.AssemblyInfo.cs
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\CHerviRezinka\CHerviRezinka\obj\Debug\netcoreapp3.1\CHerviRezinka.genruntimeconfig.cache

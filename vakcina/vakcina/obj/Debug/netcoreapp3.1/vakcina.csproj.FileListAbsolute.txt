@@ -1,0 +1,14 @@
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\bin\Debug\netcoreapp3.1\vakcina.exe
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\bin\Debug\netcoreapp3.1\vakcina.deps.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\bin\Debug\netcoreapp3.1\vakcina.runtimeconfig.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\bin\Debug\netcoreapp3.1\vakcina.runtimeconfig.dev.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\bin\Debug\netcoreapp3.1\vakcina.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\bin\Debug\netcoreapp3.1\vakcina.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.AssemblyInfo.cs
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\vakcina\vakcina\obj\Debug\netcoreapp3.1\vakcina.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.exe
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.deps.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.runtimeconfig.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.runtimeconfig.dev.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.AssemblyInfo.cs
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.genruntimeconfig.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.exe
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.deps.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.runtimeconfig.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.runtimeconfig.dev.json
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\bin\Debug\netcoreapp3.1\stek_shar.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.AssemblyInfo.cs
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.dll
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.pdb
+C:\Users\111\source\repos\3 курс\доп главы теории алгоритмов 3 курс\stek_shar — копия\stek_shar\obj\Debug\netcoreapp3.1\stek_shar.genruntimeconfig.cache
